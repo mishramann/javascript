@@ -6,10 +6,13 @@ accoutCity = "Jaipur";
 accountEmail = "pm@pm.com";
 accountPassword = "2121213";
 accoutCity = "Bengalore";
+let accountState;
 console.log(accountId);
-console.table( accountId,accountEmail,accountId,accoutCity);
+console.table( [accountId,accountEmail,accountId,accoutCity,accountState]);
 
 
-
+ /*
+prefer not to use var because of issue in block scope and functional block
+ */
 
 
