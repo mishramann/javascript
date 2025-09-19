@@ -37,7 +37,6 @@ const jsUser = {
  jsUser.email ="mishrapiyush3409@gmail.com"
  console.log(jsUser)
 
-
  jsUser.greeting = function(){
     console.log("Hello JS user");
  }
