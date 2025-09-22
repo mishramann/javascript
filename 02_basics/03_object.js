@@ -45,3 +45,5 @@ jsUser.greetingTwo = function(){
 }
 console.log(jsUser.greeting()) // Hello JS user
 console.log(jsUser.greetingTwo()) // Hello JS user, Piyush
+
+
