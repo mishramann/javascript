@@ -1,4 +1,4 @@
-// to define a object we have two way one is constructor and another one is loteral
+// to define a object we have two way one is constructor and another one is literal
 //Singleton
 
 //  Object.create  // -> it implement through constructor this come under Singleton
@@ -45,5 +45,6 @@ jsUser.greetingTwo = function(){
 }
 console.log(jsUser.greeting()) // Hello JS user
 console.log(jsUser.greetingTwo()) // Hello JS user, Piyush
+ 
 
 
