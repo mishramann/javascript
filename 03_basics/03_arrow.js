@@ -29,4 +29,7 @@ const addTwo = (num1 , num2 ) => (num1 +num2 )    //   this is implicitor       
 // in this what is going there is while wite in curly bracket it neccesary to write return keyword if we write within the paranthesis there no need to use return keyword
 
 
-console.log(addTwo(3,4));   
+console.log(addTwo(3,4));      // javascript ke andher global object kiya h -> Window object
+
+const myArray = [2,5,4,7]
+// myArray.forEach(() =>{})
