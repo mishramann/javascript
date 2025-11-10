@@ -48,4 +48,8 @@ for (let index = 1; index <= 20; index++) {
 // value of i is 18
 // value of i is 19
 // value of i is 20
-}
+}// continue say one time condition is going to skip then continue
+// break say no condition is going to run after break keyword - khel khatam after this
+
+
+
